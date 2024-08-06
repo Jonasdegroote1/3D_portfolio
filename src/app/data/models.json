@@ -1,0 +1,30 @@
+[
+  {
+    "project": "3dprintin-modeling",
+    "model": "/3Dmodels/dragon.glb"
+  },
+  {
+    "project": "gentse-feesten",
+    "model": "/3Dmodels/gravensteen.glb"
+  },
+  {
+    "project": "schrauwen-groen",
+    "model": "/3Dmodels/octopus_animated.glb"
+  },
+  {
+    "project": "interactive-agancy-website",
+    "model": "/3Dmodels/imac.glb"
+  },
+  {
+    "project": "stopmotion",
+    "model": "/3Dmodels/loft.glb"
+  },
+  {
+    "project": "labelicious",
+    "model": "/3Dmodels/rock.glb"
+  },
+  {
+    "project": "my-sport-app",
+    "model": "/3Dmodels/badminton.glb"
+  }
+]

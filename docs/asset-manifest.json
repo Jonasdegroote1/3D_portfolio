@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eindopdracht-Jonasdegroote1/static/css/main.960a8a6d.css",
+    "main.js": "/eindopdracht-Jonasdegroote1/static/js/main.975ffbb4.js",
+    "static/js/787.7da95b79.chunk.js": "/eindopdracht-Jonasdegroote1/static/js/787.7da95b79.chunk.js",
+    "index.html": "/eindopdracht-Jonasdegroote1/index.html",
+    "main.960a8a6d.css.map": "/eindopdracht-Jonasdegroote1/static/css/main.960a8a6d.css.map",
+    "main.975ffbb4.js.map": "/eindopdracht-Jonasdegroote1/static/js/main.975ffbb4.js.map",
+    "787.7da95b79.chunk.js.map": "/eindopdracht-Jonasdegroote1/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.960a8a6d.css",
+    "static/js/main.975ffbb4.js"
+  ]
+}
